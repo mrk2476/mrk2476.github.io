@@ -16,18 +16,15 @@ http://www.linkedin.com/in/testname
 
 ## University of Washington (Seattle, WA)
 
-* [University 1][] description, particularly if not well-known. *
+[University 1](https:www.uw.edu)
 
-** UW Geog 458 ** (March - June)
+**UW Geog 458  (March - June)**
 
 Summary of your role
 
 <ol>
-    <li>Accomplishment that contains **bold text**.</li>
+    <b><li>Accomplishment</li></b>
     <li>Accomplishment</li>
     <li>Accomplishment</li>
     <li>Accomplishment</li>
 </ol>
-
-
-[University 1]: http://www.uw.edu
